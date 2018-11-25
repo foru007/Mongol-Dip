@@ -1,0 +1,16 @@
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\StartLoader\StartLoader\bin\Release\StartLoader.exe
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\StartLoader\StartLoader\bin\Release\StartLoader.pdb
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\StartLoader\StartLoader\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\StartLoader\StartLoader\obj\Release\StartLoader.LoaderForm.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\StartLoader\StartLoader\obj\Release\StartLoader.Properties.Resources.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\StartLoader\StartLoader\obj\Release\StartLoader.csproj.GenerateResource.Cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\StartLoader\StartLoader\obj\Release\StartLoader.exe
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\StartLoader\StartLoader\obj\Release\StartLoader.pdb
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\StartLoader\StartLoader\bin\Release\StartLoader.exe
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\StartLoader\StartLoader\bin\Release\StartLoader.pdb
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\StartLoader\StartLoader\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\StartLoader\StartLoader\obj\Release\StartLoader.LoaderForm.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\StartLoader\StartLoader\obj\Release\StartLoader.Properties.Resources.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\StartLoader\StartLoader\obj\Release\StartLoader.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\StartLoader\StartLoader\obj\Release\StartLoader.exe
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\StartLoader\StartLoader\obj\Release\StartLoader.pdb

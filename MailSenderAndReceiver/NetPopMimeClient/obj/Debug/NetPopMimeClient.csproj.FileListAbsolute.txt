@@ -1,0 +1,1058 @@
+C:\Documents and Settings\Alamgir\Desktop\NETPOP3MIMEClient_src\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Documents and Settings\Alamgir\Desktop\NETPOP3MIMEClient_src\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Documents and Settings\Alamgir\Desktop\NETPOP3MIMEClient_src\NetPopMimeClient\bin\Debug\Net.dll
+C:\Documents and Settings\Alamgir\Desktop\NETPOP3MIMEClient_src\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Documents and Settings\Alamgir\Desktop\NETPOP3MIMEClient_src\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alamgir\Desktop\NETPOP3MIMEClient_src\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Documents and Settings\Alamgir\Desktop\NETPOP3MIMEClient_src\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Documents and Settings\Alamgir\Desktop\NETPOP3MIMEClient_src\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Documents and Settings\Alamgir\Desktop\NETPOP3MIMEClient_src\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Alamgir\Desktop\NETPOP3MIMEClient_src\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\NETPOP3MIMEClient_src\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\NETPOP3MIMEClient_src\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\NETPOP3MIMEClient_src\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\NETPOP3MIMEClient_src\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\NETPOP3MIMEClient_src\NetPopMimeClient\bin\Debug\Net.dll
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\NETPOP3MIMEClient_src\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\NETPOP3MIMEClient_src\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\NETPOP3MIMEClient_src\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\NETPOP3MIMEClient_src\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\NETPOP3MIMEClient_src\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\NETPOP3MIMEClient_src\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\NETPOP3MIMEClient_src\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+F:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+F:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+F:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+F:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+F:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+F:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+F:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+F:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+F:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+F:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+F:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+F:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+F:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+H:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+H:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+H:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+H:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+H:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+H:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+H:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+H:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+H:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+H:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+H:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+H:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+H:\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+D:\PROJECT-400\Practise\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+D:\PROJECT-400\Practise\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+D:\PROJECT-400\Practise\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+D:\PROJECT-400\Practise\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+D:\PROJECT-400\Practise\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+D:\PROJECT-400\Practise\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+D:\PROJECT-400\Practise\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+D:\PROJECT-400\Practise\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT-400\Practise\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+D:\PROJECT-400\Practise\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+D:\PROJECT-400\Practise\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+D:\PROJECT-400\Practise\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+D:\PROJECT-400\Practise\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+D:\PROJECT-400\Practise\Thesis finalize\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Faisal\Desktop\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Faisal\Desktop\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Faisal\Desktop\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Faisal\Desktop\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Faisal\Desktop\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Faisal\Desktop\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.exe
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\NetPopMimeClient.pdb
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.dll
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\bin\Debug\Net.pdb
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.LogInForm.resources
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.MailWindow.resources
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.exe
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\MailSenderAndReceiver\NetPopMimeClient\obj\Debug\NetPopMimeClient.pdb

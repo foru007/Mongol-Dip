@@ -1,0 +1,16 @@
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Notepad\Notepad\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Notepad\Notepad\obj\Release\RichTextEditor.frmFind.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Notepad\Notepad\obj\Release\RichTextEditor.frmMain.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Notepad\Notepad\obj\Release\RichTextEditor.frmReplace.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Notepad\Notepad\obj\Release\RichTextEditor.Properties.Resources.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Notepad\Notepad\obj\Release\Notepad.csproj.GenerateResource.Cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Notepad\Notepad\obj\Release\RichTextEditor.exe
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Notepad\Notepad\obj\Release\RichTextEditor.pdb
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Notepad\Notepad\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Notepad\Notepad\obj\Release\RichTextEditor.frmFind.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Notepad\Notepad\obj\Release\RichTextEditor.frmMain.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Notepad\Notepad\obj\Release\RichTextEditor.frmReplace.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Notepad\Notepad\obj\Release\RichTextEditor.Properties.Resources.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Notepad\Notepad\obj\Release\Notepad.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Notepad\Notepad\obj\Release\RichTextEditor.exe
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Notepad\Notepad\obj\Release\RichTextEditor.pdb

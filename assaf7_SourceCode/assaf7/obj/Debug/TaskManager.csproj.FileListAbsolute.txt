@@ -1,0 +1,408 @@
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.exe
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\bin\Debug\assaf7.pdb
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.addevent.resources
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.alarm.resources
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.deleteevent.resources
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.editevent.resources
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Events.resources
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.Properties.Resources.resources
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.exe
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\assaf7_SourceCode\assaf7\obj\Debug\assaf7.pdb

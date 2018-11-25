@@ -1,0 +1,36 @@
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\PrettyGoodSplashScreenCode\SplashScreen\TestIt\bin\Debug\TestIt.exe
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\PrettyGoodSplashScreenCode\SplashScreen\TestIt\bin\Debug\TestIt.pdb
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\PrettyGoodSplashScreenCode\SplashScreen\TestIt\bin\Debug\SplashScreen.dll
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\PrettyGoodSplashScreenCode\SplashScreen\TestIt\bin\Debug\SplashScreen.pdb
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\PrettyGoodSplashScreenCode\SplashScreen\TestIt\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\PrettyGoodSplashScreenCode\SplashScreen\TestIt\obj\Debug\SplashScreen.Form1.resources
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\PrettyGoodSplashScreenCode\SplashScreen\TestIt\obj\Debug\TestIt.csproj.GenerateResource.Cache
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\PrettyGoodSplashScreenCode\SplashScreen\TestIt\obj\Debug\TestIt.exe
+C:\Documents and Settings\Alamgir\Desktop\Desktop2\PrettyGoodSplashScreenCode\SplashScreen\TestIt\obj\Debug\TestIt.pdb
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SplashScreen\TestIt\bin\Debug\TestIt.exe
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SplashScreen\TestIt\bin\Debug\TestIt.pdb
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SplashScreen\TestIt\bin\Debug\SplashScreen.dll
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SplashScreen\TestIt\bin\Debug\SplashScreen.pdb
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SplashScreen\TestIt\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SplashScreen\TestIt\obj\Debug\SplashScreen.Form1.resources
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SplashScreen\TestIt\obj\Debug\TestIt.csproj.GenerateResource.Cache
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SplashScreen\TestIt\obj\Debug\TestIt.exe
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SplashScreen\TestIt\obj\Debug\TestIt.pdb
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SplashScreen\TestIt\obj\Debug\TestIt.exe
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SplashScreen\TestIt\obj\Debug\TestIt.pdb
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SplashScreen\TestIt\bin\Debug\TestIt.exe
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SplashScreen\TestIt\bin\Debug\TestIt.pdb
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SplashScreen\TestIt\bin\Debug\SplashScreen.dll
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SplashScreen\TestIt\bin\Debug\SplashScreen.pdb
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SplashScreen\TestIt\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SplashScreen\TestIt\obj\Debug\SplashScreen.Form1.resources
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SplashScreen\TestIt\obj\Debug\TestIt.csproj.GenerateResource.Cache
+D:\PROJECT-400\Practise\Thesis finalize\SplashScreen\TestIt\obj\Debug\TestIt.exe
+D:\PROJECT-400\Practise\Thesis finalize\SplashScreen\TestIt\obj\Debug\TestIt.pdb
+D:\PROJECT-400\Practise\Thesis finalize\SplashScreen\TestIt\bin\Debug\TestIt.exe
+D:\PROJECT-400\Practise\Thesis finalize\SplashScreen\TestIt\bin\Debug\TestIt.pdb
+D:\PROJECT-400\Practise\Thesis finalize\SplashScreen\TestIt\bin\Debug\SplashScreen.dll
+D:\PROJECT-400\Practise\Thesis finalize\SplashScreen\TestIt\bin\Debug\SplashScreen.pdb
+D:\PROJECT-400\Practise\Thesis finalize\SplashScreen\TestIt\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT-400\Practise\Thesis finalize\SplashScreen\TestIt\obj\Debug\SplashScreen.Form1.resources
+D:\PROJECT-400\Practise\Thesis finalize\SplashScreen\TestIt\obj\Debug\TestIt.csproj.GenerateResource.Cache

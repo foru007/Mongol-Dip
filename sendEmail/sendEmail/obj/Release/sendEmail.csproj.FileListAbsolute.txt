@@ -1,0 +1,12 @@
+C:\Users\Faisal\Documents\Downloads\Compressed\C#Zip\sendEmail\sendEmail\sendEmail\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Faisal\Documents\Downloads\Compressed\C#Zip\sendEmail\sendEmail\sendEmail\obj\Release\sendEmail.Form1.resources
+C:\Users\Faisal\Documents\Downloads\Compressed\C#Zip\sendEmail\sendEmail\sendEmail\obj\Release\sendEmail.Properties.Resources.resources
+C:\Users\Faisal\Documents\Downloads\Compressed\C#Zip\sendEmail\sendEmail\sendEmail\obj\Release\sendEmail.csproj.GenerateResource.Cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\sendEmail\sendEmail\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\sendEmail\sendEmail\obj\Release\sendEmail.Form1.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\sendEmail\sendEmail\obj\Release\sendEmail.Properties.Resources.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\sendEmail\sendEmail\obj\Release\sendEmail.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\sendEmail\sendEmail\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\sendEmail\sendEmail\obj\Release\sendEmail.Form1.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\sendEmail\sendEmail\obj\Release\sendEmail.Properties.Resources.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\sendEmail\sendEmail\obj\Release\sendEmail.csproj.GenerateResource.Cache

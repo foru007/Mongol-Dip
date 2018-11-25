@@ -1,0 +1,1096 @@
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\SpeechBuilder\SpeechBuilder\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\SpeechBuilder\SpeechBuilder\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+F:\Thesis finalize\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+F:\Thesis finalize\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+F:\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+F:\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+F:\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+F:\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+F:\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+F:\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Documents and Settings\tapu_4@8\Desktop\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+H:\Thesis finalize\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+H:\Thesis finalize\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+H:\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+H:\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+H:\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+H:\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+H:\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+H:\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+D:\PROJECT-400\Practise\Thesis finalize\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+D:\PROJECT-400\Practise\Thesis finalize\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+D:\PROJECT-400\Practise\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT-400\Practise\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+D:\PROJECT-400\Practise\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+D:\PROJECT-400\Practise\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+D:\PROJECT-400\Practise\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+D:\PROJECT-400\Practise\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+D:\PROJECT-400\Practise\Thesis finalize\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+D:\PROJECT-400\Practise\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+D:\PROJECT-400\Practise\Thesis finalize\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+E:\From Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Faisal\Desktop\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Faisal\Desktop\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+E:\From Desktop\400\Backup_24.09.11\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Faisal Update\22Nov_AfternoonWWW_Pdf Work\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_5jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_8jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_9jan\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_10jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_12jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_19jan_using_narrator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\WWW yesterday_24 update_jan_using_naator\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol Dip Software 24 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol Dip Software 25 January\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+D:\MongolDipWork\Mongol Dip Software 6 Feb Word Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Form1.resources
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\SpeechBuilder\SpeechBuilder\obj\Debug\SpeechBuilder.pdb

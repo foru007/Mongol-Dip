@@ -1,0 +1,12 @@
+C:\Documents and Settings\Alamgir\Desktop\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.xml
+C:\Documents and Settings\Alamgir\Desktop\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Documents and Settings\Alamgir\Desktop\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Documents and Settings\Alamgir\Desktop\GlobalHook\Gma.UserActivityMonitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alamgir\Desktop\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.dll
+C:\Documents and Settings\Alamgir\Desktop\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.pdb
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\Gma.UserActivityMonitor\bin\Debug\Gma.xml
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\Gma.UserActivityMonitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.dll
+C:\Documents and Settings\Alamgir\My Documents\Visual Studio 2008\Projects\Thesis finalize\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.pdb

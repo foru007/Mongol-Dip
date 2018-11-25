@@ -1,0 +1,1366 @@
+C:\Users\Bijan\Desktop\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\ppt_add\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Faisal\Desktop\Pendrive Backup\BACKUP\WWW yesterday_19jan_using_narrato\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_18March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_27March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Iqbal\Desktop\Mongol Dip\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.xml
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_28March2012\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15March2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_15April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_18April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_21April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_23April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_24April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_25April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_26April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_29April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Excel_ppt\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.xml
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+D:\MongolDipWork\Mongol_Dip_W_E_P_30April2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_2May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_5May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_8May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Faisal\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+F:\Mongol Dip BackUp\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_9May2012_Software_Nvda_Word_Complete\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\Bjn\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+H:\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Faisal\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\Working\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\6aug_another process\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\6aug_Faisal_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\7August_Foreground Window\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol_Dip_W_E_P_11july2012_Software\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\7August_Final\Mongol Dip\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+F:\Education\Book  Varities Collections\c sharp book collections\Mongol Dip Research Update\8.8.2012 Presented Mongol Dip In Sust\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\28.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\29.8.2012 MongolDip_Schedular add_create Desktop Shortcut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\ProbWhenCancel\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\ProbWhenCancel 9.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\10.10.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+D:\MongolDipWork\4.10.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\31.12.2012\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+D:\Working\31.12.2012Faisal_My_Merge\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+F:\Mongol Dip BackUp\MongolDip v2.0 Source Code\19.9.12\3.9.2012_Hooking_Fully_Solve_new system\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\23 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\27 Janu MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\9 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+F:\Mongol Dip BackUp\11 Feb MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\26 Feb_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\17March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\18March_Socket Problm_ MongolDip v2.0 Source Code\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\19March_2013_FileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\23March_2013_DriverFileFolder_Size\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\27March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\30March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_17April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_20April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\31March_2013_GlobalShortCut_21April\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\22April 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\22April 2013_Menu Text Unread\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\22April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\23April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\24April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Bijan\Desktop\27April 2013_SomeUnread_Word_Excel_PPT\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+D:\Working\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+D:\Own\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\PPTForm.pdb
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.exe
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.dll
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\SpeechBuilder.pdb
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\office.xml
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\bin\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\Interop.VBIDE.dll
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.ResolveComReference.cache
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.Properties.Resources.resources
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.csproj.GenerateResource.Cache
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.exe
+C:\Users\Foru\Desktop\MD Edited 8 jun 2013\Mongol Dip Software\PPTForm\PPTForm\obj\Debug\PPTForm.pdb

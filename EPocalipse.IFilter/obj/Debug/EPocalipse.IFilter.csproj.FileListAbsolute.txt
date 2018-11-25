@@ -1,0 +1,12 @@
+C:\Documents and Settings\Alamgir\Desktop\Source\EPocalipse.IFilter\bin\Debug\EPocalipse.IFilter.dll
+C:\Documents and Settings\Alamgir\Desktop\Source\EPocalipse.IFilter\bin\Debug\EPocalipse.IFilter.pdb
+C:\Documents and Settings\Alamgir\Desktop\Source\EPocalipse.IFilter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alamgir\Desktop\Source\EPocalipse.IFilter\obj\Debug\EPocalipse.IFilter.dll
+C:\Documents and Settings\Alamgir\Desktop\Source\EPocalipse.IFilter\obj\Debug\EPocalipse.IFilter.pdb
+D:\PROJECT-400\Practise\Thesis finalize\EPocalipse.IFilter\bin\Debug\EPocalipse.IFilter.pdb
+D:\PROJECT-400\Practise\Thesis finalize\EPocalipse.IFilter\bin\Debug\Interop.PDFFilterLib.dll
+D:\PROJECT-400\Practise\Thesis finalize\EPocalipse.IFilter\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT-400\Practise\Thesis finalize\EPocalipse.IFilter\obj\Debug\Interop.PDFFilterLib.dll
+D:\PROJECT-400\Practise\Thesis finalize\EPocalipse.IFilter\obj\Debug\EPocalipse.IFilter.csproj.ResolveComReference.cache
+D:\PROJECT-400\Practise\Thesis finalize\EPocalipse.IFilter\obj\Debug\EPocalipse.IFilter.dll
+D:\PROJECT-400\Practise\Thesis finalize\EPocalipse.IFilter\obj\Debug\EPocalipse.IFilter.pdb

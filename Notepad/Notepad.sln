@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notepad", "Notepad\Notepad.csproj", "{782BCFDB-2DED-4E8E-A259-744D71D4B9FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechBuilder", "..\SpeechBuilder\SpeechBuilder\SpeechBuilder.csproj", "{7CE0A948-8490-404E-ABAA-5FB7DC928190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{782BCFDB-2DED-4E8E-A259-744D71D4B9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782BCFDB-2DED-4E8E-A259-744D71D4B9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782BCFDB-2DED-4E8E-A259-744D71D4B9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782BCFDB-2DED-4E8E-A259-744D71D4B9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE0A948-8490-404E-ABAA-5FB7DC928190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE0A948-8490-404E-ABAA-5FB7DC928190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE0A948-8490-404E-ABAA-5FB7DC928190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE0A948-8490-404E-ABAA-5FB7DC928190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

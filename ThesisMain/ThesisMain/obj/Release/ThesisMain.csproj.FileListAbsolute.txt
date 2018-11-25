@@ -1,0 +1,11 @@
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\ThesisMain\ThesisMain\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\ThesisMain\ThesisMain\obj\Release\Interop.PDFFilterLib.dll
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\ThesisMain\ThesisMain\obj\Release\ThesisMain.csproj.ResolveComReference.cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\ThesisMain\ThesisMain\obj\Release\ThesisMain.Form1.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\ThesisMain\ThesisMain\obj\Release\ThesisMain.Properties.Resources.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\ThesisMain\ThesisMain\obj\Release\ThesisMain.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\ThesisMain\ThesisMain\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\ThesisMain\ThesisMain\obj\Release\ThesisMain.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\ThesisMain\ThesisMain\obj\Release\ThesisMain.Form1.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\ThesisMain\ThesisMain\obj\Release\ThesisMain.Properties.Resources.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\ThesisMain\ThesisMain\obj\Release\ThesisMain.csproj.GenerateResource.Cache

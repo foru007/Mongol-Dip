@@ -1,0 +1,10 @@
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Release\NetPopMimeClient.LogInForm.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Release\NetPopMimeClient.MailWindow.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Release\NetPopMimeClient.ReceiverForm.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Release\NetPopMimeClient.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Release\NetPopMimeClient.LogInForm.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Release\NetPopMimeClient.MailWindow.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Release\NetPopMimeClient.ReceiverForm.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\MailSenderAndReceiver\NetPopMimeClient\obj\Release\NetPopMimeClient.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\Interop.MediaPlayer.dll
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\Interop.WMPDXMLib.dll
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\Interop.WMPLauncher.dll
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\Interop.WMPLib.dll
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\AxInterop.WMPLib.dll
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\WindowsMediaPlayer.csproj.ResolveComReference.cache
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\PaglaPlayer.PaglaPlayerPane.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\PaglaPlayer.Properties.Resources.resources
+D:\PROJECT-400\Practise\28.02.11(11.56 am)\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\WindowsMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\Interop.MediaPlayer.dll
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\Interop.WMPDXMLib.dll
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\Interop.WMPLauncher.dll
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\Interop.WMPLib.dll
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\WindowsMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\PaglaPlayer.PaglaPlayerPane.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\PaglaPlayer.Properties.Resources.resources
+C:\Users\Faisal\Desktop\400\28.02.11(11.43 pm)\Mongol Dip\Mongol Dip\Windows Media Player\Windows Media Player\obj\Release\WindowsMediaPlayer.csproj.GenerateResource.Cache
