@@ -34,4 +34,5 @@ Note : The Mongol-Dip solution has multiple c# project, the main project name is
   8) Media Player accessibility  
 
 
-References: Screen reading with Bangla & English audio assistance bi-lingual supported software ‘Mongol Dip’ for visually impaired people (https://ieeexplore.ieee.org/document/7073153)
+References: 1. Screen reading with Bangla & English audio assistance bi-lingual supported software ‘Mongol Dip’ for visually impaired people (https://ieeexplore.ieee.org/document/7073153)
+2. Bi-lingual audio assistance supported screen reading software for the people with visual impairments (https://ieeexplore.ieee.org/document/6509807)
