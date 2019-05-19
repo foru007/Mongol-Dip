@@ -1,4 +1,4 @@
-# Mongol-Dip
+# Mongol-Dip (Bangla Screen Reader)
 Mongol Dip is a bi-lingual screen reading software which actually helps people with visual impairments to operate windows operating system for doing some important works. In this software bangla(Subachan) and english(Microsoft windows default TTS) text to speech technology is used to echo sounds of every operation done by the user. 
 
 Note : The Mongol-Dip solution has multiple c# project, the main project name is Thesis. Just open Thesis.sln file with visual studio c# ide then it will open whole solution. 
